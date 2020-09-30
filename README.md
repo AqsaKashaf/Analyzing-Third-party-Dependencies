@@ -26,4 +26,4 @@ For each folder, there exists a scripts sub-folder, and a data sub-folder.
 
 ## Contact
 
-akashaf<at>cmu<dot>edu
+akashaf\<at\>cmu\<dot\>edu
