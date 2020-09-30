@@ -18,3 +18,8 @@ This repo contains material for the IMC 2020 submission on third party dependenc
 | list1m2020.csv | Alexa 2020 list of popular sites |
 
 For each folder, there exists a scripts sub-folder, and a data sub-folder. 
+
+
+## License
+
+[BSD] (https://choosealicense.com/licenses/bsd-4-clause/)
