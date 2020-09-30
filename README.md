@@ -23,3 +23,7 @@ For each folder, there exists a scripts sub-folder, and a data sub-folder.
 ## License
 
 [BSD](https://choosealicense.com/licenses/bsd-4-clause/)
+
+## Contact
+
+akashaf<at>cmu<dot>edu
